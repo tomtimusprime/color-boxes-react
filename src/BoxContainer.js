@@ -18,3 +18,4 @@ class BoxContainer extends Component {
 }
 
 export default BoxContainer;
+//Creating the box container component
