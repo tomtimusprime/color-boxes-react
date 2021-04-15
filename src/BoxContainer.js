@@ -19,3 +19,4 @@ class BoxContainer extends Component {
 
 export default BoxContainer;
 //Creating the box container component
+//Worked on some node.js items and some react today.
